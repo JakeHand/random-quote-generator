@@ -1,0 +1,35 @@
+html {
+    text-align: center;
+    margin-top: 4rem;
+    background-color: orange;
+}
+
+section {
+    background-color: black;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 1rem;
+    padding: 3rem;
+    padding-bottom: 2rem;
+}
+
+button {
+    margin: 0.1rem;
+    background-color: orange;
+    color: black;
+    border: 0;
+    border-radius: 0.2rem;
+    padding: 0.6rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#response-field {
+    margin: 3rem;
+    padding-top: 0.5rem;
+    font-size: 1.4rem;
+    font-style: italic;
+}
